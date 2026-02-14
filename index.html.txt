@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pastel Letter</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #ffd6e8, #d6f0ff);
+            font-family: "Comic Sans MS", cursive, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .letter {
+            background-color: #fffafc;
+            width: 420px;
+            padding: 35px;
+            border-radius: 20px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+            border: 3px solid #ffc8dd;
+        }
+
+        .date {
+            text-align: right;
+            font-size: 14px;
+            color: #888;
+        }
+
+        h2 {
+            color: #ff6fa1;
+            margin-bottom: 15px;
+        }
+
+        p {
+            line-height: 1.7;
+            color: #555;
+        }
+
+        .signature {
+            margin-top: 30px;
+            color: #ff6fa1;
+            font-weight: bold;
+        }
+
+        .hearts {
+            text-align: center;
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="letter">
+        <div class="hearts">💗 🌸 💗</div>
+
+        <div class="date">February 14, 2026</div>
+
+        <h2>Dear Aliff,</h2>
+
+        <p>
+            Happy Valentines Day, baby. Thank you for always taking care of me. You are the best boyfriend everr :>
+            I just want you to know that i love you so much!!!
+        </p>
+
+        <p>
+            Keep smiling, keep shining, and never forget that you deserve
+            all the happiness in the world. MWUAH MWUAH MWAUUH:3
+        </p>
+
+        <div class="signature">
+            With love,<br>
+            Your baby 💕
+        </div>
+    </div>
+
+</body>
+</html>
